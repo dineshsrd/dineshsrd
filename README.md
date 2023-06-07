@@ -2,9 +2,7 @@
 
 <p align="center">Product Operations and Engineering @CommerceIQ<br/>Chennai, India</p>
 
-<div>
-  <div style="width: 50px;"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dineshsrd/dineshsrd/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></div>
-</div>
+
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17174%26project%3D%26in%3D0)](https://codetime.dev)
 
@@ -17,3 +15,7 @@
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<div>
+  <div style="width: 50px;"><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dineshsrd/dineshsrd/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a></div>
+</div>
