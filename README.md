@@ -11,6 +11,15 @@
 ---
 ### I spent time on:
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 17 mins    ████████████████▓░░░░░░░░   66.13 %
+JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+```
+
 <!--END_SECTION:waka-->
 ---
 ### ✍️ Random Dev Quote
