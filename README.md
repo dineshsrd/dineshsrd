@@ -12,12 +12,20 @@
 ### I spent time on:
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   1 hr 17 mins    ████████████████▓░░░░░░░░   66.13 %
-JavaScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Bash         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+```rust
+From: 09 June 2020 - To: 11 April 2024
+
+Total Time: 2,279 hrs 28 mins
+
+Java                      1,084 hrs 58 mins>>>>>>>>>>>>-------------   47.19 %
+JavaScript                472 hrs 27 mins >>>>>--------------------   20.55 %
+XML                       164 hrs 54 mins >>-----------------------   07.17 %
+JSON                      126 hrs 23 mins >------------------------   05.50 %
+HTML                      105 hrs 3 mins  >------------------------   04.57 %
+Groovy                    97 hrs 32 mins  >------------------------   04.24 %
+Properties                73 hrs 31 mins  >------------------------   03.20 %
+TypeScript                54 hrs 25 mins  >------------------------   02.37 %
+Other                     19 hrs 34 mins  -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
