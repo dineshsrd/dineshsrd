@@ -13,6 +13,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dineshsrd&theme=vue&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshsrd&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
+### I spent time on:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
