@@ -34,7 +34,7 @@ jobs:
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
+          TARGET_PATH: README_old.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: dineshsr # optional
