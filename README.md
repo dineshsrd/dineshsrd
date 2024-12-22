@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 June 2020 - To: 19 December 2024
+From: 09 June 2020 - To: 20 December 2024
 
-Total Time: 2,703 hrs 12 mins
+Total Time: 2,703 hrs 54 mins
 
-Java                      1,140 hrs 17 mins>>>>>>>>>>---------------   41.81 %
-JavaScript                544 hrs 12 mins >>>>>--------------------   19.95 %
+Java                      1,140 hrs 17 mins>>>>>>>>>>---------------   41.80 %
+JavaScript                544 hrs 49 mins >>>>>--------------------   19.97 %
 TypeScript                258 hrs 5 mins  >>-----------------------   09.46 %
 XML                       165 hrs 16 mins >>-----------------------   06.06 %
 HTML                      106 hrs 27 mins >------------------------   03.90 %
