@@ -4,17 +4,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 June 2020 - To: 05 May 2025
+From: 09 June 2020 - To: 06 May 2025
 
-Total Time: 2,943 hrs 20 mins
+Total Time: 2,948 hrs 50 mins
 
-Java                      1,182 hrs 49 mins>>>>>>>>>>---------------   39.81 %
-JavaScript                569 hrs 2 mins  >>>>>--------------------   19.15 %
-TypeScript                329 hrs 46 mins >>>----------------------   11.10 %
-XML                       169 hrs 51 mins >------------------------   05.72 %
+Java                      1,186 hrs 18 mins>>>>>>>>>>---------------   39.86 %
+JavaScript                569 hrs 13 mins >>>>>--------------------   19.12 %
+TypeScript                329 hrs 57 mins >>>----------------------   11.09 %
+XML                       169 hrs 51 mins >------------------------   05.71 %
 HTML                      106 hrs 43 mins >------------------------   03.59 %
-Groovy                    102 hrs 38 mins >------------------------   03.46 %
-Properties                74 hrs 38 mins  >------------------------   02.51 %
+Groovy                    102 hrs 38 mins >------------------------   03.45 %
+Properties                74 hrs 39 mins  >------------------------   02.51 %
 Bash                      32 hrs 41 mins  -------------------------   01.10 %
 ```
 
